@@ -64,7 +64,7 @@ huggingface_hub
 
 All reference datasets (co-expression, STRING interaction scores, subcellular localisation, ESM2 embeddings, and pre-trained model files) for both Human and Yeast are hosted on **Hugging Face**:
 
-> 🤗 [https://huggingface.co/datasets/caioo61/UTTOPIA-RF-ESM](https://huggingface.co/datasets/caioo61/UTTOPIA-RF-ESM)
+> [https://huggingface.co/datasets/caioo61/UTTOPIA-RF-ESM](https://huggingface.co/datasets/caioo61/UTTOPIA-RF-ESM)
 
 **You do not need to download them manually.** All required files are automatically downloaded from Hugging Face and saved to your working directory when running the notebooks. This requires an internet connection on the first run; subsequent runs will use the locally cached files.
 
