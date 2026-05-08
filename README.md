@@ -13,7 +13,7 @@ Protein–protein interaction (PPI) networks provide a powerful representation o
 
 **UTTOPIA** aims to partially address this gap by using minimal machine learning models to estimate PPI fraction bound ([AB]/[A]) and binding affinity (Kd) from context- and environment-specific transcriptomic data in human and yeast, achieving near-experimental accuracy.
 
-<img src="1.png" width="400" alt="UTTOPIA Diagram">
+<img src="assets/readme_photo.png" width="400" alt="UTTOPIA Diagram">
 
 -----
 
